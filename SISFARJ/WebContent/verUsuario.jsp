@@ -4,7 +4,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>Insira seu texto aqui</title>
+		<title>Insira seu texto aqui:</title>
 		<link rel="stylesheet" type="text/css" href="css/estilo.css">
 		
 	</head>
