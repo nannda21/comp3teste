@@ -8,7 +8,7 @@
 		<link rel="stylesheet" type="text/css" href="css/estilo.css">
 	</head>
 	<body>
-		<h1>SISFARJ Sistema de bosta</h1>
+		<h1>SISFARJ Sistema do bolota</h1>
 		<form action="identUsuario.jsp">
 			<input type="submit" id="identUsuario" name="identUsuario" value="Cadastrar Atleta"> 
 		</form>

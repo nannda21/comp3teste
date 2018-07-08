@@ -13,7 +13,6 @@
 		<%out.print("Preencha os campos abaixo.");%>
 		
 		<form action="verUsuario.jsp">
-			
 			<br>
 			Matrícula: <br>
 			<input type="text" id="matricula" name="matricula"><br>
