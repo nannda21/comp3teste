@@ -8,7 +8,7 @@
 		<link rel="stylesheet" type="text/css" href="css/estilo.css">
 	</head>
 	<body>
-		<h1>Identificar Usuário</h1>
+		<h1>Identificar Usuario</h1>
 		
 		<%out.print("Preencha os campos abaixo.");%>
 		

@@ -9,7 +9,7 @@
 	</head>
 	
 	<body>
-		<%= "Matrícula: "+ request.getParameter("matricula")%>
+		<%= "Matricula: "+ request.getParameter("matricula")%>
 		<%= "Senha: "+ request.getParameter("senha")%>	
 	</body>
 </html>
