@@ -20,7 +20,7 @@
 			Senha: <br>
 			<input type="password" id="senha" name="senha"><br>	
 			<br>
-			<input type="submit" value="Ok"><br>
+			<input type="submit" value="enviar"><br>
 			
 		</form>
 	</body>
